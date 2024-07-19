@@ -22,7 +22,7 @@ main {
     
 }
 section#Telefone {
-    position: absolute;
+    position: relative;
     top: 53%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -32,4 +32,13 @@ section#Telefone {
     background-color: blue ;
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
+iframe#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 269px;
+    height: 471px;
+    
+}
+
 
